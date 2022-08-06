@@ -1,0 +1,25 @@
+body {
+background-color: cornflowerblue;
+color: rgb(255, 0, 0);
+}
+
+
+.heading {
+
+width: 80%;
+font-size: 22px;
+}
+
+
+.name_of_objects,
+#result_object_name,
+#result_object_accuracy {
+    color: rgb(102, 102, 98);
+}
+
+
+#camera {
+border: 2px dashed black;
+width: 350px;
+height: 300px;
+}
